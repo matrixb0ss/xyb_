@@ -1,6 +1,15 @@
-To run tests please execute:
-  npm run test
+1. Clone repository
+2. Move to project folder
+3. Run to fetch required development-dependencies
+```sh
+npm install / yarn
+```
+## Testing
 
+To run the tests:
+```sh
+npm run test / yarn test
+```
 The answer for this task (a function `displayFrequentVisiters` that calculate result) is in src/index.js file;
 
 This is the average runtime and space complexity method
